@@ -18,7 +18,7 @@ This is a simple graphical game. The objective of the game is to catch falling e
 
 
 ## Procedures To Run This Game On Your Machine 
-In order to this game, you need to follow these steps - 
+In order to run this game, you need to follow these steps - 
 - Make sure your machine have `Codeblocks IDE` and `GLUT` installed.  
 - Open a new `GLUT` project. 
 - Replace `main.cpp` file of your new project folder by the `main.cpp` file of this repository. 
