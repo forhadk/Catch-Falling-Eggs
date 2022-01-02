@@ -1,6 +1,6 @@
 # Catch Falling Eggs 
 
-This is a simple graphical game based on the concept of "Catch Falling Eggs". I used `C++` as a programming language and `GLUT` (OpenGL Utility Toolkit) to write the struture of the game. 
+This is a simple graphical game. The objective of the game is to catch falling eggs in the basket. I used `C++` as a programming language and `GLUT` (OpenGL Utility Toolkit) to write the structure of the game. 
 
 ## Rules of the game:
 - If the player catches `10` eggs, then `Lavel Up`  
