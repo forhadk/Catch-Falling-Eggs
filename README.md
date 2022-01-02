@@ -16,3 +16,10 @@ In order to this game, you need to follow these steps -
 - Now build and run the code 
 - Enjoy the game  
 
+> :memo: **Note:** This code was written on Windows PC.  
+
+> ⬇️: **Download:** You can download whole project folder (zip) from [here](#). 
+
+> :memo: **GLUT:** Learn about GLUT installation from [here](#). 
+
+
