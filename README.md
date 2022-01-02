@@ -2,10 +2,12 @@
 
 This is a simple graphical game. The objective of the game is to catch falling eggs in the basket. I used `C++` as a programming language and `GLUT` (OpenGL Utility Toolkit) to write the structure of the game. 
 
+
 ## Rules Of The Game:
 - If the player catches `10` eggs, then `Level Up`  
 - For each new level, speed of falling eggs is `Increased` 
 - If the player misses `10` eggs, then `Game Over`  
+
 
 
 ## Instructions:
@@ -15,6 +17,12 @@ This is a simple graphical game. The objective of the game is to catch falling e
 - To change the falling eggs direction to the left, press `A`/`a` key.  
 - To change the falling eggs direction to the right, press `D`/`d` key.  
 - To Quit manually, press key `Q`/`q` or click right mouse button then click `Quit`.    
+
+
+
+## Demo GIF:
+![img](https://github.com/forhadk/Catch-Falling-Eggs/blob/main/Files/Catch%20Falling%20Eggs.gif)
+
 
 
 ## Procedures To Run This Game On Your Machine 
@@ -27,7 +35,7 @@ In order to run this game, you need to follow these steps -
 
 > :memo: **Note:** This code is written on Windows PC.  
 
-> ⬇️: **Download:** You can download whole project folder (zip) from [here](#). 
+> ⬇️: **Download:** You can download whole project folder (zip) from [here](https://github.com/forhadk/Catch-Falling-Eggs/blob/main/Files/Catch%20Falling%20Eggs.zip). 
 
 > :memo: **GLUT:** Learn about GLUT installation from [here](#). 
 
