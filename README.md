@@ -8,6 +8,15 @@ This is a simple graphical game. The objective of the game is to catch falling e
 - If the player misses `10` eggs, then `Game Over`  
 
 
+## Instructions:
+- The objective of the game is to catch falling eggs in the `basket`.  
+- To `move` basket use `mouse`. 
+- To start, press key `S`/`s` or click right mouse button then click `Start Game`.  
+- To change the falling eggs direction to the left, press `A`/`a` key.  
+- To change the falling eggs direction to the right, press `D`/`d` key.  
+- To Quit manually, press key `Q`/`q` or click right mouse button then click `Quit`.    
+
+
 ## Procedures to run this game on your machine 
 In order to this game, you need to follow these steps - 
 - Make sure your machine have `Codeblocks IDE` and `GLUT` installed.  
