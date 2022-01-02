@@ -2,7 +2,7 @@
 
 This is a simple graphical game. The objective of the game is to catch falling eggs in the basket. I used `C++` as a programming language and `GLUT` (OpenGL Utility Toolkit) to write the structure of the game. 
 
-## Rules of the game:
+## Rules Of The Game:
 - If the player catches `10` eggs, then `Level Up`  
 - For each new level, speed of falling eggs is `Increased` 
 - If the player misses `10` eggs, then `Game Over`  
@@ -17,7 +17,7 @@ This is a simple graphical game. The objective of the game is to catch falling e
 - To Quit manually, press key `Q`/`q` or click right mouse button then click `Quit`.    
 
 
-## Procedures to run this game on your machine 
+## Procedures To Run This Game On Your Machine 
 In order to this game, you need to follow these steps - 
 - Make sure your machine have `Codeblocks IDE` and `GLUT` installed.  
 - Open a new `GLUT` project. 
