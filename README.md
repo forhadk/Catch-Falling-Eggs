@@ -10,11 +10,11 @@ This is a simple graphical game based on the concept of "Catch Falling Eggs". I 
 
 ## Procedures to run this game on your machine 
 In order to this game, you need to follow these steps - 
-- Make sure your machine have GLUT installed  
-- Open a new project 
-- Replace `main.cpp` file of your project folder by the `main.cpp` file of this repository 
-- Now build and run the code 
-- Enjoy the game  
+- Make sure your machine have `Codeblocks IDE` and `GLUT` installed.  
+- Open a new `GLUT` project. 
+- Replace `main.cpp` file of your new project folder by the `main.cpp` file of this repository. 
+- Now `build` and `run` the code. 
+- Enjoy the game.  
 
 > :memo: **Note:** This code was written on Windows PC.  
 
